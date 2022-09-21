@@ -8,9 +8,6 @@
 
 ![Desktop](https://github.com/lupeMorales/GUI-Java-piedra-papel-tijera/blob/master/viewPPT.png?raw=true)
 
-### Demo:
-
-![Demo](./assets/PIEDRA%20PAPEL%20TIJERA%202022-09-15%2015-48-22.mp4)
 
 ### Lenguaje utilizado:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="css3" width="60" height="60"/> </a> </p>
